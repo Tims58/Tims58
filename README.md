@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Timothy Miracle
+- 👋 Hi, I’m Timothy Miracle
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate with anyone on projects to be created using html and css to strengthen my knowledge also looking for someone to guide me through react.js
